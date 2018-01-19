@@ -1,1 +1,2 @@
-# ECE695-Purdue
+### ECE695 Purdue
+### Weekly Reading Assignment
