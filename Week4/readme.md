@@ -1,14 +1,4 @@
 
-
-# Results of image deconvolution
-![alt tag](https://github.com/BotYue/ECE695-Purdue/blob/master/Week4/pic1.eps) 
-![alt tag](https://github.com/BotYue/ECE695-Purdue/blob/master/Week4/pic2.eps) <br>
-![alt tag](https://github.com/BotYue/ECE695-Purdue/blob/master/Week4/pic3.eps) 
-![alt tag](https://github.com/BotYue/ECE695-Purdue/blob/master/Week4/pic4.eps) <br>
-
-
-# Results of image deconvolution
-![alt tag](https://github.com/BotYue/ECE695-Purdue/blob/master/Week4/w1.eps) 
-![alt tag](https://github.com/BotYue/ECE695-Purdue/blob/master/Week4/w2.eps) <br>
-![alt tag](https://github.com/BotYue/ECE695-Purdue/blob/master/Week4/w3.eps) 
-![alt tag](https://github.com/BotYue/ECE695-Purdue/blob/master/Week4/w4.eps) <br>
+### ISTA + FISTA
+## 20X20 image, 100x100 image
+## sparsity 1%, 0.84%
