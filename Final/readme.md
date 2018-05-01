@@ -9,7 +9,7 @@ Incremental method: adding L1 penalty to SGD update, in Mountain Car and Acrobot
 ##### Output figures:
 
 Batch method:
-![](./Result/Figure_11.jpeg =100x20)
+![](./Result/Figure_11.jpeg)
 ![](./Result/Figure_12.jpeg)
 
 Incremental method:
